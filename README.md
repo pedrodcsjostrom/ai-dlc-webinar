@@ -12,15 +12,7 @@ Si vas a probar una sola cosa, que sea la primera: el grill.
 
 ## Marcos
 
-- [AWS AI-DLC](https://aws.amazon.com/blogs/devops/ai-driven-development-life-cycle/): el AI-Driven Development Life Cycle de AWS.
-- [Spec Kit](https://github.com/github/spec-kit): el toolkit open source de GitHub para spec-driven development.
-
-## Herramientas
-
-- [BMAD Method](https://github.com/bmad-code-org/BMAD-METHOD)
-- [Jules](https://jules.google)
-- [Cursor](https://cursor.com)
-- [Greptile](https://www.greptile.com)
+- [AWS AI-DLC](https://prod.d13rzhkk8cj2z0.amplifyapp.com/): el paper del AI-Driven Development Life Cycle de AWS.
 
 ## Datos
 
