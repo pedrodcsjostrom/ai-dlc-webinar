@@ -22,6 +22,11 @@ Si vas a probar una sola cosa, que sea la primera: el grill.
 
 ## Contacto
 
+- LinkedIn: [in/pedro-diaz-cruz](https://www.linkedin.com/in/pedro-diaz-cruz)
 - GitHub: [pedrodcsjostrom](https://github.com/pedrodcsjostrom)
 
-El PDF de las diapositivas y la grabación se suman a este repo después de la charla.
+## Diapositivas
+
+- [deck.pdf](deck.pdf): las diapositivas de la charla en PDF.
+
+La grabación se suma a este repo después de la charla.
